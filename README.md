@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/ubco-mds-2020-labs/dashboard-project-group14) [![GitHub Super-Linter](https://github.com/ubco-mds-2020-labs/dashboard-project-group14/actions/workflows/linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 
-:game_die: **The Board Game Data Explorer can be found [here](https://boardgame-dashboard-data551.herokuapp.com/)!** :game_die:
+:game_die: **The Board Game Data Explorer can be found [here](https://boardgame-explorer.herokuapp.com/)!** :game_die:
 
 This document (the README file) provides information about the data explorer. Jump straight to one of the sections below, or just scroll down to find out more.
 
@@ -25,7 +25,7 @@ Features include:
 - Top 10 games based user ratings and filtering on categories, mechanics, and/or publishers.
 - :boom: A 3D game explorer. :boom:
 
-The best way to understand the functionality is just to check-out the [app](https://boardgame-dashboard-data551.herokuapp.com/) but a few examples are shown below.
+The best way to understand the functionality is just to check-out the [app](https://boardgame-explorer.herokuapp.com/) but a few examples are shown below.
 
 **Average User Ratings**
 
