@@ -1,3 +1,5 @@
+**NOTE:** This repo has been transfered [here](https://github.com/WraySmith/boardgame-explorer) where it is still undergoing development with open issues. This is a copy of the repo at the time it was transferred and has been archived.
+
 # Board Game Data Explorer
 
 ![GitHub](https://img.shields.io/github/license/ubco-mds-2020-labs/dashboard-project-group14) [![GitHub Super-Linter](https://github.com/ubco-mds-2020-labs/dashboard-project-group14/actions/workflows/linter.yml/badge.svg)](https://github.com/marketplace/actions/super-linter)
